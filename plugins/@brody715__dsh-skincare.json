@@ -1,0 +1,15 @@
+{
+  "name": "@brody715/dsh-skincare",
+  "version": "0.2.0",
+  "title": {
+    "zh": "护肤知识库",
+    "en": "Skin care"
+  },
+  "summary": {
+    "zh": "有出处的护肤科普与分诊助手：13 个中文知识模块、原文来源索引、学习路径、皮肤状态评估与目标跟踪",
+    "en": "AAD-sourced skin-care knowledge base: 13 cited Chinese modules, source index, learning path, skin assessment and goal tracking"
+  },
+  "category": "other",
+  "screenshots": [],
+  "homepage": "https://github.com/brody715/dsh-skincare"
+}
